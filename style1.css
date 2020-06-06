@@ -1,0 +1,1261 @@
+    .top {
+        background-color: #0859BE;
+        height: 80px;
+        text-align: center;
+        color: white;
+    }
+    
+    .top p {
+        margin-top: 1px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 14.5px;
+        padding-top: 25px;
+    }
+    
+    .top img {
+        position: absolute;
+        top: 25px;
+        left: 100px;
+    }
+    
+    #twitter {
+        position: absolute;
+        top: 1px;
+        left: 40px;
+    }
+    
+    #instagram {
+        position: absolute;
+        top: 1px;
+        left: 75px;
+    }
+    
+    #youtube {
+        position: absolute;
+        top: 1px;
+        left: 110px;
+    }
+    
+    #whatsapp {
+        position: absolute;
+        top: 1px;
+        left: 150px;
+    }
+    
+    #uk {
+        font-size: 15px;
+        position: absolute;
+        top: 20px;
+        left: 825px;
+    }
+    
+    #now {
+        font-size: 15px;
+        position: absolute;
+        top: 50px;
+        left: 825px;
+    }
+    
+    #dn {
+        font-size: 15px;
+        position: absolute;
+        top: 20px;
+        left: 911px;
+    }
+    
+    .nav-link {
+        position: relative;
+        top: 20px;
+        left: 200px;
+        padding-bottom: 10px;
+    }
+    
+    #sy {
+        position: relative;
+        top: 20px;
+        left: 130px;
+        padding-bottom: 10px;
+    }
+    
+    .nav-link {
+        border-radius: 20px;
+        border-spacing: 10px;
+    }
+    
+    .dropbtn {
+        position: relative;
+        left: 150px;
+        top: 18px;
+        background-color: white;
+        color: black;
+        padding: 10px;
+        font-size: 16px;
+        border-radius: 30px;
+        border-spacing: 20px;
+        border: none;
+    }
+    
+    .dropdown {
+        position: relative;
+        display: inline-block;
+    }
+    
+    .dropdown-content {
+        display: none;
+        position: absolute;
+        left: 200px;
+        min-width: 160px;
+        border: ;
+        z-index: 1;
+        background-color: white;
+    }
+    
+    .dropdown-content a {
+        color: black;
+        padding: 20px 16px;
+        text-decoration: none;
+        display: block;
+        border: blue;
+    }
+    
+    .dropdown-content a:hover {}
+    
+    .dropdown:hover .dropdown-content {
+        display: block;
+    }
+    
+    .dropdown:hover .dropbtn {
+        background-color: #0859BE;
+        color: white;
+    }
+    
+    .main button {
+        position: relative;
+        left: 130px;
+        top: 20px;
+        background-color: #0859BE;
+        color: white;
+        font-size: 15px;
+        border-radius: 50px;
+        border-spacing: 20px;
+        border: none;
+        padding: 10px 25px;
+        text-decoration: none;
+        display: block;
+    }
+    
+    .movtext {
+        width: 100%;
+        background-color: blue;
+        color: white;
+    }
+    
+    #intro {
+        text-align: center;
+        color: #0570f2;
+    }
+    
+    .duct {
+        position: absolute;
+        left: 630px;
+        color: green;
+    }
+    
+    #log {
+        position: absolute;
+        left: 630px;
+    }
+    
+    .middle {
+        width: 100%;
+        height: 300px;
+        background-color: #0570f2;
+    }
+    
+    #kata {
+        position: absolute;
+        top: 1600px;
+        left: 150px;
+    }
+    
+    #five {
+        position: absolute;
+        top: 1650px;
+        left: 110px;
+        color: white;
+    }
+    
+    #three {
+        position: absolute;
+        top: 1700px;
+        left: 150px;
+        color: white;
+    }
+    
+    #das {
+        position: absolute;
+        top: 1730px;
+        left: 80px;
+        color: white;
+    }
+    
+    #mon {
+        position: absolute;
+        top: 1730px;
+        left: 200px;
+        color: #00ff04;
+        font-size: 20px;
+    }
+    
+    #family {
+        position: absolute;
+        top: 1600px;
+        left: 400px;
+    }
+    
+    #seven {
+        position: absolute;
+        top: 1650px;
+        left: 380px;
+        color: white;
+    }
+    
+    #fam {
+        position: absolute;
+        top: 1700px;
+        left: 400px;
+        color: white;
+    }
+    
+    #ado {
+        position: absolute;
+        top: 1730px;
+        left: 350px;
+        color: white;
+    }
+    
+    #mont {
+        position: absolute;
+        top: 1730px;
+        left: 430px;
+        color: #00ff04;
+        font-size: 20px;
+    }
+    
+    #heart {
+        position: absolute;
+        top: 1600px;
+        left: 650px;
+    }
+    
+    #four {
+        position: absolute;
+        top: 1650px;
+        left: 630px;
+        color: white;
+    }
+    
+    #med {
+        position: absolute;
+        top: 1700px;
+        left: 620px;
+        color: white;
+    }
+    
+    #month {
+        position: absolute;
+        top: 1700px;
+        left: 690px;
+        color: #00ff04;
+        font-size: 20px;
+    }
+    
+    #topi {
+        position: absolute;
+        top: 1600px;
+        left: 930px;
+    }
+    
+    #eight {
+        position: absolute;
+        top: 1650px;
+        left: 900px;
+        color: white;
+    }
+    
+    #edu {
+        position: absolute;
+        top: 1700px;
+        left: 860px;
+        color: white;
+    }
+    
+    #monthl {
+        position: absolute;
+        top: 1700px;
+        left: 950px;
+        color: #00ff04;
+        font-size: 20px;
+    }
+    
+    .card {
+        background-color: #ededed;
+        height: 700px;
+        width: 100%;
+    }
+    
+    #midlog {
+        position: absolute;
+        left: 520px;
+        top: 150px;
+    }
+    
+    #what {
+        position: absolute;
+        left: 375px;
+        top: 95px;
+        display: inline;
+        font-size: 35px;
+        font-style: inherit;
+        color: #006eff;
+    }
+    
+    #are {
+        position: absolute;
+        left: 550px;
+        top: 90px;
+        display: inline;
+        font-size: 35px;
+        font-family: unset;
+        color: #016e13;
+    }
+    
+    .cards {
+        width: 290px;
+        height: 180px;
+        border: solid 1px #555;
+        background-color: white;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+        -moz-box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+        -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+        -o-box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+        position: absolute;
+        left: 90px;
+        top: 250px;
+    }
+    
+    #hands {
+        position: absolute;
+        left: 85px;
+        top: 25px;
+    }
+    
+    #online {
+        color: #006eff;
+        position: absolute;
+        left: 35px;
+        top: 120px;
+    }
+    
+    .cards1 {
+        width: 320px;
+        height: 180px;
+        border: solid 1px #555;
+        background-color: white;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+        -moz-box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+        -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+        -o-box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+        position: absolute;
+        left: 410px;
+        top: 250px;
+    }
+    
+    #hands1 {
+        position: absolute;
+        left: 110px;
+        top: 25px;
+    }
+    
+    #online1 {
+        color: #006eff;
+        position: absolute;
+        left: 105px;
+        top: 120px;
+    }
+    
+    .cards2 {
+        width: 290px;
+        height: 180px;
+        border: solid 1px #555;
+        background-color: white;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+        -moz-box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+        -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+        -o-box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+        position: absolute;
+        left: 770px;
+        top: 250px;
+    }
+    
+    #hands2 {
+        position: absolute;
+        left: 100px;
+        top: 25px;
+    }
+    
+    #online2 {
+        color: #006eff;
+        position: absolute;
+        left: 90px;
+        top: 120px;
+    }
+    
+    .cards3 {
+        width: 290px;
+        height: 180px;
+        border: solid 1px #555;
+        background-color: white;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+        -moz-box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+        -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+        -o-box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+        position: absolute;
+        left: 90px;
+        top: 470px;
+    }
+    
+    #hands3 {
+        position: absolute;
+        left: 100px;
+        top: 25px;
+    }
+    
+    #online3 {
+        color: #006eff;
+        position: absolute;
+        left: 55px;
+        top: 120px;
+    }
+    
+    .cards4 {
+        width: 320px;
+        height: 180px;
+        border: solid 1px #555;
+        background-color: white;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+        -moz-box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+        -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+        -o-box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+        position: absolute;
+        left: 410px;
+        top: 470px;
+    }
+    
+    #hands4 {
+        position: absolute;
+        left: 110px;
+        top: 25px;
+    }
+    
+    #online4 {
+        color: #006eff;
+        position: absolute;
+        left: 100px;
+        top: 120px;
+    }
+    
+    .cards5 {
+        width: 290px;
+        height: 180px;
+        border: solid 1px #555;
+        background-color: white;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+        -moz-box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+        -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+        -o-box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+        position: absolute;
+        left: 770px;
+        top: 470px;
+    }
+    
+    #hands5 {
+        position: absolute;
+        left: 100px;
+        top: 25px;
+    }
+    
+    #online5 {
+        color: #006eff;
+        position: absolute;
+        left: 80px;
+        top: 120px;
+    }
+    
+    .mission {
+        height: 700px;
+        width: 100%;
+    }
+    
+    #miss {
+        position: relative;
+        ;
+        left: 100px;
+        top: 70px;
+        color: #006eff;
+        font-size: 25px;
+        font-family: Arial, ;
+        text-decoration: underline;
+        display: inline;
+    }
+    
+    #up {
+        position: relative;
+        ;
+        left: 300px;
+        top: 70px;
+        color: #006eff;
+        font-size: 25px;
+        font-family: Arial, ;
+        text-decoration: underline;
+        display: inline;
+    }
+    
+    #hep {
+        position: relative;
+        left: 100px;
+        top: 120px;
+        height: 85px;
+        width: 280px;
+        background-color: rgb(241, 239, 239);
+    }
+    
+    #hou {
+        position: relative;
+        left: 420px;
+        top: 35px;
+        height: 85px;
+        width: 280px;
+        background-color: rgb(241, 239, 239);
+    }
+    
+    #it {
+        position: relative;
+        left: 100px;
+        top: 60px;
+        height: 85px;
+        width: 280px;
+        background-color: rgb(241, 239, 239);
+    }
+    
+    #tha {
+        position: relative;
+        left: 420px;
+        top: -25px;
+        height: 85px;
+        width: 280px;
+        background-color: rgb(241, 239, 239);
+    }
+    
+    #half {
+        position: relative;
+        top: 25px;
+        left: 20px;
+    }
+    
+    #pat {
+        position: relative;
+        left: 80px;
+        color: #006eff;
+    }
+    
+    #para {
+        position: relative;
+        left: 310px;
+        top: -65px;
+        height: 200px;
+        width: 280px;
+        background-color: rgb(241, 239, 239);
+    }
+    
+    .gall {
+        height: 300px;
+        width: 100%;
+        position: relative;
+        top: 50px;
+    }
+    
+    #im {
+        position: absolute;
+        left: 430px;
+        top: 95px;
+        display: inline;
+        font-size: 35px;
+        font-style: inherit;
+        color: #006eff;
+    }
+    
+    .intduc {
+        height: 80px;
+        width: 100%;
+        position: relative;
+        top: -20px;
+        right: 95px;
+    }
+    
+    .ras {
+        position: relative;
+        left: 90px;
+        top: -60px;
+        opacity: 1.0;
+    }
+    
+    img:hover {
+        opacity: 0.5;
+    }
+    
+    .secfoot {
+        height: 350px;
+        background-color: #232933;
+        width: 100%;
+        color: #c9c9c9;
+    }
+    
+    #a {
+        position: relative;
+        left: 100px;
+        top: 80px;
+        display: inline;
+    }
+    
+    #phone {
+        position: relative;
+        width: 12px;
+        height: 12px;
+    }
+    
+    #use {
+        position: relative;
+        left: 250px;
+        top: -120px;
+        display: inline;
+        text-align: center;
+        text-decoration: underline;
+    }
+    
+    #line {
+        position: relative;
+        left: 450px;
+        top: -120px;
+    }
+    
+    #contact {
+        position: relative;
+        left: 650px;
+        top: -150px;
+        display: inline;
+        text-align: center;
+        text-decoration: underline;
+    }
+    
+    #contact img {
+        position: relative;
+        right: 150px;
+        top: 50px;
+    }
+    
+    #footer {
+        position: relative;
+        width: 100%;
+        height: 40px;
+        color: white;
+        background-color: #006eff;
+    }
+    
+    @media only screen and (max-width: 600px) {
+        .top {
+            background-color: #0859BE;
+            height: 80px;
+            text-align: center;
+            color: white;
+        }
+        .top p {
+            margin-top: 1px;
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 14.5px;
+            padding-top: 25px;
+        }
+        .top img {
+            position: absolute;
+            top: 25px;
+            left: 100px;
+        }
+        #twitter {
+            position: absolute;
+            top: 1px;
+            left: 40px;
+        }
+        #instagram {
+            position: absolute;
+            top: 1px;
+            left: 75px;
+        }
+        #youtube {
+            position: absolute;
+            top: 1px;
+            left: 110px;
+        }
+        #whatsapp {
+            position: absolute;
+            top: 1px;
+            left: 150px;
+        }
+        #uk {
+            font-size: 15px;
+            position: absolute;
+            top: 20px;
+            left: 825px;
+        }
+        #now {
+            font-size: 15px;
+            position: absolute;
+            top: 50px;
+            left: 825px;
+        }
+        #dn {
+            font-size: 15px;
+            position: absolute;
+            top: 20px;
+            left: 911px;
+        }
+        .nav-link {
+            position: relative;
+            top: 20px;
+            left: 200px;
+            padding-bottom: 10px;
+        }
+        #sy {
+            position: relative;
+            top: 20px;
+            left: 130px;
+            padding-bottom: 10px;
+        }
+        .nav-link {
+            border-radius: 20px;
+            border-spacing: 10px;
+        }
+        .dropbtn {
+            position: relative;
+            left: 150px;
+            top: 18px;
+            background-color: white;
+            color: black;
+            padding: 10px;
+            font-size: 16px;
+            border-radius: 30px;
+            border-spacing: 20px;
+            border: none;
+        }
+        .dropdown {
+            position: relative;
+            display: inline-block;
+        }
+        .dropdown-content {
+            display: none;
+            position: absolute;
+            left: 200px;
+            min-width: 160px;
+            border: ;
+            z-index: 1;
+            background-color: white;
+        }
+        .dropdown-content a {
+            color: black;
+            padding: 20px 16px;
+            text-decoration: none;
+            display: block;
+            border: blue;
+        }
+        .dropdown-content a:hover {}
+        .dropdown:hover .dropdown-content {
+            display: block;
+        }
+        .dropdown:hover .dropbtn {
+            background-color: #0859BE;
+            color: white;
+        }
+        .main button {
+            position: relative;
+            left: 130px;
+            top: 20px;
+            background-color: #0859BE;
+            color: white;
+            font-size: 15px;
+            border-radius: 50px;
+            border-spacing: 20px;
+            border: none;
+            padding: 10px 25px;
+            text-decoration: none;
+            display: block;
+        }
+        .movtext {
+            width: 100%;
+            background-color: blue;
+            color: white;
+        }
+        #intro {
+            text-align: center;
+            color: #0570f2;
+        }
+        .duct {
+            position: absolute;
+            left: 630px;
+            color: green;
+        }
+        #log {
+            position: absolute;
+            left: 630px;
+        }
+        .middle {
+            width: 100%;
+            height: 300px;
+            background-color: #0570f2;
+        }
+        #kata {
+            position: absolute;
+            top: 1600px;
+            left: 150px;
+        }
+        #five {
+            position: absolute;
+            top: 1650px;
+            left: 110px;
+            color: white;
+        }
+        #three {
+            position: absolute;
+            top: 1700px;
+            left: 150px;
+            color: white;
+        }
+        #das {
+            position: absolute;
+            top: 1730px;
+            left: 80px;
+            color: white;
+        }
+        #mon {
+            position: absolute;
+            top: 1730px;
+            left: 200px;
+            color: #00ff04;
+            font-size: 20px;
+        }
+        #family {
+            position: absolute;
+            top: 1600px;
+            left: 400px;
+        }
+        #seven {
+            position: absolute;
+            top: 1650px;
+            left: 380px;
+            color: white;
+        }
+        #fam {
+            position: absolute;
+            top: 1700px;
+            left: 400px;
+            color: white;
+        }
+        #ado {
+            position: absolute;
+            top: 1730px;
+            left: 350px;
+            color: white;
+        }
+        #mont {
+            position: absolute;
+            top: 1730px;
+            left: 430px;
+            color: #00ff04;
+            font-size: 20px;
+        }
+        #heart {
+            position: absolute;
+            top: 1600px;
+            left: 650px;
+        }
+        #four {
+            position: absolute;
+            top: 1650px;
+            left: 630px;
+            color: white;
+        }
+        #med {
+            position: absolute;
+            top: 1700px;
+            left: 620px;
+            color: white;
+        }
+        #month {
+            position: absolute;
+            top: 1700px;
+            left: 690px;
+            color: #00ff04;
+            font-size: 20px;
+        }
+        #topi {
+            position: absolute;
+            top: 1600px;
+            left: 930px;
+        }
+        #eight {
+            position: absolute;
+            top: 1650px;
+            left: 900px;
+            color: white;
+        }
+        #edu {
+            position: absolute;
+            top: 1700px;
+            left: 860px;
+            color: white;
+        }
+        #monthl {
+            position: absolute;
+            top: 1700px;
+            left: 950px;
+            color: #00ff04;
+            font-size: 20px;
+        }
+        .card {
+            background-color: #ededed;
+            height: 700px;
+            width: 100%;
+        }
+        #midlog {
+            position: absolute;
+            left: 520px;
+            top: 150px;
+        }
+        #what {
+            position: absolute;
+            left: 375px;
+            top: 95px;
+            display: inline;
+            font-size: 35px;
+            font-style: inherit;
+            color: #006eff;
+        }
+        #are {
+            position: absolute;
+            left: 550px;
+            top: 90px;
+            display: inline;
+            font-size: 35px;
+            font-family: unset;
+            color: #016e13;
+        }
+        .cards {
+            width: 290px;
+            height: 180px;
+            border: solid 1px #555;
+            background-color: white;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+            -moz-box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+            -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+            -o-box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+            position: absolute;
+            left: 90px;
+            top: 250px;
+        }
+        #hands {
+            position: absolute;
+            left: 85px;
+            top: 25px;
+        }
+        #online {
+            color: #006eff;
+            position: absolute;
+            left: 35px;
+            top: 120px;
+        }
+        .cards1 {
+            width: 320px;
+            height: 180px;
+            border: solid 1px #555;
+            background-color: white;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+            -moz-box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+            -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+            -o-box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+            position: absolute;
+            left: 410px;
+            top: 250px;
+        }
+        #hands1 {
+            position: absolute;
+            left: 110px;
+            top: 25px;
+        }
+        #online1 {
+            color: #006eff;
+            position: absolute;
+            left: 105px;
+            top: 120px;
+        }
+        .cards2 {
+            width: 290px;
+            height: 180px;
+            border: solid 1px #555;
+            background-color: white;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+            -moz-box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+            -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+            -o-box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+            position: absolute;
+            left: 770px;
+            top: 250px;
+        }
+        #hands2 {
+            position: absolute;
+            left: 100px;
+            top: 25px;
+        }
+        #online2 {
+            color: #006eff;
+            position: absolute;
+            left: 90px;
+            top: 120px;
+        }
+        .cards3 {
+            width: 290px;
+            height: 180px;
+            border: solid 1px #555;
+            background-color: white;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+            -moz-box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+            -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+            -o-box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+            position: absolute;
+            left: 90px;
+            top: 470px;
+        }
+        #hands3 {
+            position: absolute;
+            left: 100px;
+            top: 25px;
+        }
+        #online3 {
+            color: #006eff;
+            position: absolute;
+            left: 55px;
+            top: 120px;
+        }
+        .cards4 {
+            width: 320px;
+            height: 180px;
+            border: solid 1px #555;
+            background-color: white;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+            -moz-box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+            -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+            -o-box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+            position: absolute;
+            left: 410px;
+            top: 470px;
+        }
+        #hands4 {
+            position: absolute;
+            left: 110px;
+            top: 25px;
+        }
+        #online4 {
+            color: #006eff;
+            position: absolute;
+            left: 100px;
+            top: 120px;
+        }
+        .cards5 {
+            width: 290px;
+            height: 180px;
+            border: solid 1px #555;
+            background-color: white;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+            -moz-box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+            -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+            -o-box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+            position: absolute;
+            left: 770px;
+            top: 470px;
+        }
+        #hands5 {
+            position: absolute;
+            left: 100px;
+            top: 25px;
+        }
+        #online5 {
+            color: #006eff;
+            position: absolute;
+            left: 80px;
+            top: 120px;
+        }
+        .mission {
+            height: 700px;
+            width: 100%;
+        }
+        #miss {
+            position: relative;
+            ;
+            left: 100px;
+            top: 70px;
+            color: #006eff;
+            font-size: 25px;
+            font-family: Arial, ;
+            text-decoration: underline;
+            display: inline;
+        }
+        #up {
+            position: relative;
+            ;
+            left: 300px;
+            top: 70px;
+            color: #006eff;
+            font-size: 25px;
+            font-family: Arial, ;
+            text-decoration: underline;
+            display: inline;
+        }
+        #hep {
+            position: relative;
+            left: 100px;
+            top: 120px;
+            height: 85px;
+            width: 280px;
+            background-color: rgb(241, 239, 239);
+        }
+        #hou {
+            position: relative;
+            left: 420px;
+            top: 35px;
+            height: 85px;
+            width: 280px;
+            background-color: rgb(241, 239, 239);
+        }
+        #it {
+            position: relative;
+            left: 100px;
+            top: 60px;
+            height: 85px;
+            width: 280px;
+            background-color: rgb(241, 239, 239);
+        }
+        #tha {
+            position: relative;
+            left: 420px;
+            top: -25px;
+            height: 85px;
+            width: 280px;
+            background-color: rgb(241, 239, 239);
+        }
+        #half {
+            position: relative;
+            top: 25px;
+            left: 20px;
+        }
+        #pat {
+            position: relative;
+            left: 80px;
+            color: #006eff;
+        }
+        #para {
+            position: relative;
+            left: 310px;
+            top: -65px;
+            height: 200px;
+            width: 280px;
+            background-color: rgb(241, 239, 239);
+        }
+        .gall {
+            height: 300px;
+            width: 100%;
+            position: relative;
+            top: 50px;
+        }
+        #im {
+            position: absolute;
+            left: 430px;
+            top: 95px;
+            display: inline;
+            font-size: 35px;
+            font-style: inherit;
+            color: #006eff;
+        }
+        .intduc {
+            height: 80px;
+            width: 100%;
+            position: relative;
+            top: -20px;
+            right: 95px;
+        }
+        .ras {
+            position: relative;
+            left: 90px;
+            top: -60px;
+            opacity: 1.0;
+        }
+        img:hover {
+            opacity: 0.5;
+        }
+        .secfoot {
+            height: 350px;
+            background-color: #232933;
+            width: 100%;
+            color: #c9c9c9;
+        }
+        #a {
+            position: relative;
+            left: 100px;
+            top: 80px;
+            display: inline;
+        }
+        #phone {
+            position: relative;
+            width: 12px;
+            height: 12px;
+        }
+        #use {
+            position: relative;
+            left: 250px;
+            top: -120px;
+            display: inline;
+            text-align: center;
+            text-decoration: underline;
+        }
+        #line {
+            position: relative;
+            left: 450px;
+            top: -120px;
+        }
+        #contact {
+            position: relative;
+            left: 650px;
+            top: -150px;
+            display: inline;
+            text-align: center;
+            text-decoration: underline;
+        }
+        #contact img {
+            position: relative;
+            right: 150px;
+            top: 50px;
+        }
+        #footer {
+            position: relative;
+            width: 100%;
+            height: 40px;
+            color: white;
+            background-color: #006eff;
+        }
+    }
